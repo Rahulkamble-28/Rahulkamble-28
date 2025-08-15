@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Rahul Kamble
 
-<!--
-**Rahulkamble-28/Rahulkamble-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profession/Current Role:**  
+Cloud Engineer, Aspiring Architect
 
-Here are some ideas to get you started:
+**Top Technical Skills:**  
+- Terraform  
+- Azure  
+- CI/CD  
+- GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Certifications & Achievements:**  
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)  
+- Microsoft Certified: Azure Security Engineer Associate (AZ-500)  
+- HashiCorp Certified: Terraform Associate  
+
+**Let’s Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/kamblerahul1/)
+
+**Fun Facts & Interests:**  
+- Carrom - first love
+- Passionate about reading tech news  
+- Interested in regulatory compliances  
+- Pursuing CCSP certification  
